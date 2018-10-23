@@ -7,6 +7,7 @@ Langkah-langkah yang dilakukan untuk menampilkan data tersebut sebagai berikut:
 * Kemudian jalankan terlebih dahulu pekerjaan pada pertemuan sebelumnya dengan perintah "node index.js". 
 Apabila masih menampilkan error, instal express lagi terlebih dahulu. Ketika pertemuan sebelumnya sudah 
 bisa diakses maka akan menampilkan seperti pada gambar dibawah ini :
+
 ![On Demand](https://github.com/Rohmatul1/tctbaru/blob/master/minggu-07/3.PNG)
 
 * Selanjutnya untuk menampilkan data dari database maka, instal terlebih dahulu mysql body-parser 
@@ -29,6 +30,7 @@ valuenya seperti apa aja.
 * Lalu, membuat file routes.js yang berguna untuk menulis routes atau endpoint apa saja yang ada di rest api.
 * Ketika semua file telah dibuat maka, jalankan perintah "node server.js" di cmd node js. Maka, hasilnya
 akan tampil seperti gambar dibawah ini :
+
 ![On Demand](https://github.com/Rohmatul1/tctbaru/blob/master/minggu-07/5.PNG)
 
 * Langkah terakhir yaitu buka browser gunakan perintah "http://localhost:3000/users", maka hasilnya 

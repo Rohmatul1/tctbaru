@@ -67,4 +67,5 @@ Setiap file yang kita simpan di dropbox, otomatis file tersebut tersebar ke komp
 Selamat user, sudah mempunyai akun Dropbox dengan disk space 2 GB. Semoga artikel ini cukup untuk memberikan gambaran betapa mudahnya membuat akun Dropbox dan menginstallnya di PC atau Laptop user.
 
 == Sumber : ==
-*https://aguswijayaonline.wordpress.com/2014/01/30/cara-menggunakan-dropbox-dan-install-dropbox-pada-komputer/
+
+* https://aguswijayaonline.wordpress.com/2014/01/30/cara-menggunakan-dropbox-dan-install-dropbox-pada-komputer/
