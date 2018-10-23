@@ -17,10 +17,10 @@ Dari aplikasi yang telah dilakukan maka, langkah yang dipelajari sebagai berikut
 * Ketiga, letakkan file index.html di dalam xampp/htdocs/
 * Keempat, buka cmd.exe 
 * Kelima, kemudian klik kanan pilih run as administrator. Setelah itu, lakukan langkah seperti dibawah ini :
-![On Demand](https://github.com/Rohmatul1/tct/blob/master/minggu-05/01.png)
+![On Demand](https://github.com/Rohmatul1/tctbaru/blob/master/minggu-05/01.png)
 
 * Keenam, setelah melakukan langkah diatas selanjutnya yaitu buka browser dan ketikkan http://localhost. 
-![On Demand](https://github.com/Rohmatul1/tct/blob/master/minggu-05/02.png)
+![On Demand](https://github.com/Rohmatul1/tctbaru/blob/master/minggu-05/02.png)
 
 * Setelah berhasil, maka hasilnya seperti pada gambar diatas.
 

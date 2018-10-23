@@ -11,7 +11,7 @@ Software as service merupakan evolusi lanjutan dari konsep ASP ( Application Ser
 * Meningkatkan produktivitas bagi pengguna.
 
 Penjelasan ketika provider mempublikasikan suatu layanan SaaS di internet dan satu atau beberapa pengguna saling menggunakannya secara bersama – sama atau on demand di dalam internet.
-![On Demand](https://github.com/Rohmatul1/p-tct/blob/master/minggu-02/images/1.jpg)
+![On Demand](https://github.com/Rohmatul1/tctbaru/blob/master/minggu-02/images/1.jpg)
 
 == Implementasi layanan SaaS ==
 
