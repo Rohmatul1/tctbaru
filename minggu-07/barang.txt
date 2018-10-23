@@ -1,0 +1,15 @@
+create table barang(
+no_brg char(8),
+nm_brg char(25),
+hrg_brg numeric
+);
+
+alter table barang add primary key (no_brg);
+
+insert into barang values('B001','CPU','35000000'),('B002','Keyboard','23000000'),
+('B003','LCD','50000000'),('B004','AC','20000000'),('B005','Proyektor','80000000');
+
+
+
+
+https://medium.com/@kiddy.xyz/tutorial-restful-api-node-js-express-mysql-part-1-527868bfb9d1
